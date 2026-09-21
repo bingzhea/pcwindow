@@ -5,7 +5,7 @@
 **生效日期 / Effective date：** 2026-09-21
 **最近更新 / Last updated：** 2026-09-21
 **联系方式 / Contact：** pcwindow@163.com
-**本政策公开地址 / Public URL：** https://github.com/bingzhea/pcwindow
+**本政策公开地址 / Public URL：** https://bingzhea.github.io/pcwindow/
 
 > 提交 Microsoft Store 前，必须把上面四处 `<待填写>` 替换成真实内容，并把本文
 > 档发布到一个任何人都能匿名访问的 https 地址；Partner Center 的「隐私政策 URL」
