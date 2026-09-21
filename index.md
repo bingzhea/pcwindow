@@ -7,11 +7,6 @@
 **联系方式 / Contact：** pcwindow@163.com
 **本政策公开地址 / Public URL：** https://bingzhea.github.io/pcwindow/
 
-> 提交 Microsoft Store 前，必须把上面四处 `<待填写>` 替换成真实内容，并把本文
-> 档发布到一个任何人都能匿名访问的 https 地址；Partner Center 的「隐私政策 URL」
-> 填的就是那个地址。
-
----
 
 ## 中文
 
